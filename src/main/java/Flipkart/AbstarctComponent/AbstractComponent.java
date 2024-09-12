@@ -19,7 +19,7 @@ WebElement cart;
 
 public AbstractComponent(WebDriver driver) {
 		
-		
+	sfghfhgfhf;	
 	this.driver=driver;	
 	PageFactory.initElements(driver, this);
 		
